@@ -1,5 +1,6 @@
 # hello-world
 Repositório inicial do tutorial do git
+*Como estudante na área de Tecnologia, tenho como objetivo dominar o github para ter um maior controle e acompanhamento do crescimento dos meus projetos. Utilizando o tutorial do github para início*
 # Tutorial do GitHub
 
 Este projeto é uma forma de aprender a usar o GitHub, uma plataforma de hospedagem de código-fonte e colaboração para desenvolvedores. Neste projeto, você vai seguir os passos do tutorial do GitHub para criar um repositório, fazer alterações, abrir uma solicitação pull e mesclar seu código.
